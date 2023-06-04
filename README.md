@@ -3,7 +3,7 @@
 
 -----
 
-I am Manu, Mobile & Backend from Spain, living in Madrid <img src="./madrid.gif" height="40" width="40" />
+I am Manu, Mobile & Backend from Spain, living in Madrid <img src="./madrid.gif" height="20" width="40" />
 	<br>
 	<br>
 I'm always looking for new opportunities, so if you've landed here, let's keep in touch or spread the word!
@@ -33,7 +33,7 @@ class About: Me {
                 "Vapor",
                 "Flutter",
                 "Kotlin",
-				"SpringBoot"
+                "SpringBoot"
           ]
     }
     
@@ -53,4 +53,4 @@ class About: Me {
 
 -----
 
-Check out my full worklife in https://manuelespeso.com/
+Check out my full worklife in https://manuelespeso.com
