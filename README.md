@@ -3,6 +3,11 @@
 
 -----
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ManuEspesoJbs&label=Profile%20views&color=0e75b6&style=flat" alt="ManuEspesoJbs" /> </p>
+
+![Twitter Follow](https://img.shields.io/twitter/follow/ManuEspesoJbs?label=ManuEspesoJbs&logo=twitter&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/ManuEspesoJbs?logo=GitHub&style=for-the-badge)
+
 I am Manu, Mobile & Backend from Spain, living in Madrid <img src="./madrid.gif" height="20" width="40" />
 	<br>
 	<br>
@@ -50,6 +55,11 @@ class About: Me {
 }
 ```
 
+-----
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuEspesoJbs&layout=compact&hide=html" alt="ManuEspesoJbs" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ManuEspesoJbs&show_icons=true" alt="ManuEspesoJbs" /></p>
 
 -----
 
